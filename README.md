@@ -28,4 +28,6 @@ A simple and efficient web application that generates secure passwords based on 
 - Save generated passwords (optional)
 
 ## Screenshot
-(Add a screenshot here later)
+
+![Screenshot 1](assets/image1.png)
+![Screenshot 2](assets/image2.png)
